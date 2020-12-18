@@ -15,9 +15,19 @@ Glow is a generative flow for photo-realistic facial expression synthesis, which
 In our paper, we exploit the Glow model and the CelebA face image dataset to construct the GFF dataset.
 Please consult our [paper](https://www.researchgate.net/publication/345040451_Blind_detection_of_glow-based_facial_forgery) for more information.
 
-## Download
-If you would like to download the GFF dataset, please answer the following questions and send them to us at [guozhiqing@hnu.edu.cn](mailto:guozhiqing@hnu.edu.cn).
+## GFF dataset terms
+Before we are able to offer you access to the dataset, please agree to the following terms of use.
+1. Researchers can only use the GFF dataset for non-commercial research and educational purposes.
+2. Researchers take full responsibility for their use of the dataset, and protect the dataset providers from any and all claims arising from the use of the dataset by researchers.
+3. Researchers can provide others with access to the dataset if they agree to accept the terms of use.
+4. We reserve the right to terminate researchers' access to the dataset at any time.
 
+## Download
+If you agree to the above 'GFF dataset terms' and would like to download the GFF dataset, please answer the following questions and send them to us at [guozhiqing@hnu.edu.cn](mailto:guozhiqing@hnu.edu.cn).
+* Name
+* Affiliation
+* Principal Investigator/Advisor's Name and Email
+* Research purpose
 
 Please cite our paper if the GFF dataset is used in your research:
 ```

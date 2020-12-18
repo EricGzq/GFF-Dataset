@@ -16,7 +16,7 @@ In our paper, we exploit the Glow model and the CelebA face image dataset to con
 Please consult our [paper](https://www.researchgate.net/publication/345040451_Blind_detection_of_glow-based_facial_forgery) for more information.
 
 ## GFF dataset terms
-Before we are able to offer you access to the dataset, please agree to the following terms of use.
+Please agree to the following terms of use before we provide you with access to the GFF dataset.
 1. Researchers can only use the GFF dataset for non-commercial research and educational purposes.
 2. Researchers take full responsibility for their use of the dataset, and protect the dataset providers from any and all claims arising from the use of the dataset by researchers.
 3. Researchers can provide others with access to the dataset if they agree to accept the terms of use.
